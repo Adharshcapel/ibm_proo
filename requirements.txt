@@ -5,4 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+pygal
+cufflinks
+IPython
+openpyxl
 -e .
